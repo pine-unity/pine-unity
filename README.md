@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  table {
+    width: 100%;
+  }
+</style>
+
 <div align="center">
   
 | **About Me!** | 
