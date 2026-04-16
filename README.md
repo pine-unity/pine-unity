@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="240" height="135" alt="AIBO ERS-210 Kicks a Ball" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" /> <a href="https://www.glitter-graphics.com"><img src="http://dl2.glitter-graphics.net/pub/385/385172nu0kffzxkf.gif" width=120 height=105 border=0></a> <img width="150" height="150" alt="aibo-ers-7-2" src="https://github.com/user-attachments/assets/339ebc5b-c7ed-4715-a41d-2c1b68749cd6" />
+<img width="240" height="135" alt="AIBO ERS-210 Kicks a Ball" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" /> <a href="https://www.glitter-graphics.com"><img src="http://dl2.glitter-graphics.net/pub/385/385172nu0kffzxkf.gif" width=135 height=135 border=0></a> <img width="135" height="135" alt="aibo-ers-7-2" src="https://github.com/user-attachments/assets/339ebc5b-c7ed-4715-a41d-2c1b68749cd6" />
 
 
 
