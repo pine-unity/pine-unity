@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="120" height="68" alt="AIBO ERS-210 Kicks a Ball" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" /> <a href="https://www.glitter-graphics.com"><img src="http://dl2.glitter-graphics.net/pub/385/385172nu0kffzxkf.gif" width=68 height=68 border=0></a> <img width="68" height="68" alt="aibo-ers-7-2" src="https://github.com/user-attachments/assets/339ebc5b-c7ed-4715-a41d-2c1b68749cd6" />
+<img width="240" height="135" alt="AIBO ERS-210 Kicks a Ball" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" /> <a href="https://www.glitter-graphics.com"><img src="http://dl2.glitter-graphics.net/pub/385/385172nu0kffzxkf.gif" width=135 height=135 border=0></a> <img width="135" height="135" alt="aibo-ers-7-2" src="https://github.com/user-attachments/assets/339ebc5b-c7ed-4715-a41d-2c1b68749cd6" />
 <br>
-
+<!--
 ![Online Now Icon](http://dl4.glitter-graphics.net/pub/70/70114ow466u9oc3.gif)
 <img width="12" height="28" alt="green-dance" src="https://github.com/user-attachments/assets/0b96cd93-cc7e-409d-933a-70492a85aa46" />
-
+-->
 ~~Sleep is for the weak~~ 
 ## About Me:
 
