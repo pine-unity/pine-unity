@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-| **               **About Me!**              ** | 
+| <img width="1000" height="1">**About Me!** | 
 | ----------- | 
 | High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
