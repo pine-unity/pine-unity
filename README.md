@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  table {
-    width: 100%;
-  }
-</style>
+
 
 <div align="center">
   
-| **About Me!** | 
+| &nbsp;&nbsp;&nbsp; **About Me!** &nbsp;&nbsp;&nbsp;| 
 | ----------- | 
 | High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
