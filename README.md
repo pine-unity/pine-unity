@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Syntax | 
+| About me | 
 | ----------- | 
-| Header | 
-| Paragraph |
+| High School Student | 
+| FIRST Robotics (Team 3082) |
+| Unity Game Development |
+| 2D Animator, digital artist |
+| Digital music producer & arranger |
+| Java, C# |
 
 
