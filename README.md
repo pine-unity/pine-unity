@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-~~Sleep is for the weak~~
+~~Sleep is for the weak~~ 
 ## About Me!
 
 - High School Student (CO2027)
@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 - Unity Game Development
 - 2D Animator, digital artist
 - Digital music producer & arranger
-- Java, C#
+
+## I have experience in:
+- Java
+- C#
+- JS
 
 
 
