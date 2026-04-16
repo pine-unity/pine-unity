@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-| &nbsp;&nbsp;&nbsp; **About Me!** &nbsp;&nbsp;&nbsp;| 
-| ----------- | 
+| &nbsp;&nbsp;&nbsp; **About Me!** &nbsp;&nbsp;&nbsp; | 
+| &nbsp;&nbsp;&nbsp; ----------- &nbsp;&nbsp;&nbsp; | 
 | High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
 | Unity Game Development |
