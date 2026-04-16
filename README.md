@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 - 2D Animator, digital artist
 - Digital music producer & arranger
 
-## I have experience in:
+## I work in:
 - Java
 - C#
-- JS
 
 ## Look at my stuff!
 
