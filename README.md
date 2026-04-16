@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="480" height="270" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" />
+<img width="240" height="135" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/fe326131-7b64-4155-a120-de5b3c4e5cbe" />
 
 
 ~~Sleep is for the weak~~ 
