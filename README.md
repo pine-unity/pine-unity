@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## ~~Sleep is for the weak~~
+~~Sleep is for the weak~~
+
+## Basic Info
 
 <div align="center">
   
