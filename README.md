@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Basic Info
 
-<div align="center">
+
   
 |<img width="300" height ="1"> **About Me!** <img width="300" height ="1">| 
 | :---------: | 
@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 | Digital music producer & arranger |
 | Java, C# |
 
-</div>
 
