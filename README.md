@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 
 ~~Sleep is for the weak~~
 
-## Basic Info
+## About Me!
 
+- High School Student (CO2027)
+- FIRST Robotics (Team 3082)
+- Unity Game Development
+- 2D Animator, digital artist
+- Digital music producer & arranger
+- Java, C#
 
-  
-|<img width="300" height ="1"> **About Me!** <img width="300" height ="1">| 
-| :---------: | 
-| High School Student (CO2027) | 
-| FIRST Robotics (Team 3082) |
-| Unity Game Development |
-| 2D Animator, digital artist |
-| Digital music producer & arranger |
-| Java, C# |
 
 
