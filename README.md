@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-|<img width="300" height ="1"> $\color{blue}{{About Me!}}$ <img width="300" height ="1">| 
+|<img width="300" height ="1"> $\color{blue}{\text{About Me!}}$ <img width="300" height ="1">| 
 | :---------: | 
 | High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
