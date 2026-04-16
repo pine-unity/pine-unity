@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/b292600d-7159-41a5-8f0c-034fc35f6b6e" />## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=250&size=45&pause=1000&color=F7F7F7&random=true&width=500&height=60&lines=Well%2C+hello+there!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=250&size=45&pause=1000&color=F7F7F7&random=true&width=500&height=60&lines=Well%2C+hello+there!)](https://git.io/typing-svg)
 
 <!--
 **pine-unity/pine-unity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
