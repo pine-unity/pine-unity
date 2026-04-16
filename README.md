@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-| About me | 
+<center>
+  
+| **About Me!** | 
 | ----------- | 
-| High School Student | 
+| High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
 | Unity Game Development |
 | 2D Animator, digital artist |
 | Digital music producer & arranger |
 | Java, C# |
 
+</center>
 
