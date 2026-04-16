@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
+<div align="center">
   
 | **About Me!** | 
 | ----------- | 
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 | Digital music producer & arranger |
 | Java, C# |
 
-</center>
+</div>
 
