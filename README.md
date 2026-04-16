@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ~~Sleep is for the weak~~ 
-## About Me!
+## About Me:
 
 - High School Student (CO2027)
 - FIRST Robotics (Team 3082)
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - Java
 - C#
 
-## Look at my stuff!
+## Look at my stuff! ⬇️
 
