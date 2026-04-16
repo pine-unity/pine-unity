@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-| **About Me!** | 
+| **               **About Me!**              ** | 
 | ----------- | 
 | High School Student (CO2027) | 
 | FIRST Robotics (Team 3082) |
