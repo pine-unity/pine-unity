@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-~~Sleep is for the weak and so is mental health~~ 
+~~Sleep is for the weak~~ 
 ## About Me:
 
 - High School Student (CO2027)
