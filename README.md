@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## I work in:
 - Java
 - C#
+- Python
 
 ## Look at my stuff! ⬇️
 
